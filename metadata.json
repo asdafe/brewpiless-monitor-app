@@ -1,0 +1,6 @@
+{
+  "name": "BrewPiLess Monitor",
+  "description": "Native-grade monitoring client and simulator for BrewPiLess ESP32 fermentation controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
